@@ -1,5 +1,5 @@
 {
-  "name": "bedrock",
+  "name": "debounce-riq",
   "version": "0.0.0",
   "description": "a template for basic js packages",
   "main": "src/index.js",
@@ -21,5 +21,18 @@
     "test": "gulp karma"
   },
   "author": "rusty.camden@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/relateiq/debounce-riq.git"
+  },
+  "keywords": [
+    "js",
+    "debounce",
+    "timeout"
+  ],
+  "bugs": {
+    "url": "https://github.com/relateiq/debounce-riq/issues"
+  },
+  "homepage": "https://github.com/relateiq/debounce-riq"
 }
